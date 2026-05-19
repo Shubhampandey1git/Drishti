@@ -12,7 +12,7 @@
 * 🔫 Firearm
 * 🔪 Knife
 
-The app uses a **custom-trained YOLO-based TensorFlow Lite model** and runs directly on Android devices for **on-device inference**.
+The app uses a **custom-trained YOLO-based TensorFlow Lite model** and runs directly on Rapberry Pi and Android devices(demo) for **on-device inference**.
 
 ---
 
